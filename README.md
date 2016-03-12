@@ -18,3 +18,7 @@
   4. In order for the Live Server to be updated you must run "git push prodServer" which is the remote server we setup with GitHub
 
 ######All versions at this point should be functional and up to date.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8y-G57w0eb0
+" target="_blank"><img src="http://s23.postimg.org/y7b5mjxjf/Screen_Shot_2016_03_11_at_11_53_54_PM.png"
+alt="IMAGE ALT TEXT HERE" width="540" height="405" border="10" /></a>
