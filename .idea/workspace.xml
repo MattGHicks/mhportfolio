@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26d4d47b-8e82-4ad5-b6ab-e1af60432b03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="26d4d47b-8e82-4ad5-b6ab-e1af60432b03" name="Default" comment="Title change">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mhportfolio.iws" />
@@ -160,7 +159,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457750712450</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Title change">
+      <created>1457750750907</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1457750750907</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -194,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial update..." />
     <MESSAGE value="Fixing the content and header position" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing the content and header position" />
+    <MESSAGE value="Title change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
