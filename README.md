@@ -4,6 +4,6 @@
 ###Deployment Plan
 
 1. First ordered list item
-    ⋅⋅1. Then This
+  1. Then This
 2. Another item
 
