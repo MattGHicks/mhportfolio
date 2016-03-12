@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d4d47b-8e82-4ad5-b6ab-e1af60432b03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mhportfolio.iws" />
@@ -24,24 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.3333335">
-              <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.91549295">
+              <caret line="74" column="50" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
               <folding>
-                <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6333333">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -61,8 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -74,7 +65,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
+    <option name="x" value="117" />
     <option name="y" value="23" />
     <option name="width" value="1283" />
     <option name="height" value="805" />
@@ -102,6 +93,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,7 +114,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -193,74 +184,56 @@
       <option name="project" value="LOCAL" />
       <updated>1457744954057</updated>
     </task>
-    <task id="LOCAL-00003" summary="This is an initial update...">
-      <created>1457754088753</created>
+    <task id="LOCAL-00003" summary="Fixing the content and header position">
+      <created>1457750493544</created>
       <option name="number" value="00003" />
       <option name="project" value="LOCAL" />
-      <updated>1457754088753</updated>
+      <updated>1457750493544</updated>
     </task>
-    <task id="LOCAL-00004" summary="This is an initial update...">
-      <created>1457754111793</created>
+    <task id="LOCAL-00004" summary="Fixing the content and header position">
+      <created>1457750628866</created>
       <option name="number" value="00004" />
       <option name="project" value="LOCAL" />
-      <updated>1457754111793</updated>
+      <updated>1457750628867</updated>
     </task>
-    <task id="LOCAL-00005" summary="This is an initial update...">
-      <created>1457754131353</created>
+    <task id="LOCAL-00005" summary="Fixing the content and header position">
+      <created>1457750712450</created>
       <option name="number" value="00005" />
       <option name="project" value="LOCAL" />
-      <updated>1457754131353</updated>
+      <updated>1457750712450</updated>
     </task>
-    <task id="LOCAL-00006" summary="This is an initial update...">
-      <created>1457754171494</created>
+    <task id="LOCAL-00006" summary="Title change">
+      <created>1457750750907</created>
       <option name="number" value="00006" />
       <option name="project" value="LOCAL" />
-      <updated>1457754171494</updated>
+      <updated>1457750750907</updated>
     </task>
-    <task id="LOCAL-00007" summary="This is an initial update...">
-      <created>1457754386441</created>
+    <task id="LOCAL-00007" summary="Title change">
+      <created>1457750941422</created>
       <option name="number" value="00007" />
       <option name="project" value="LOCAL" />
-      <updated>1457754386441</updated>
+      <updated>1457750941422</updated>
     </task>
-    <task id="LOCAL-00008" summary="This is an initial update...">
-      <created>1457754391567</created>
+    <task id="LOCAL-00008" summary="Title change">
+      <created>1457755670317</created>
       <option name="number" value="00008" />
       <option name="project" value="LOCAL" />
-      <updated>1457754391567</updated>
+      <updated>1457755670317</updated>
     </task>
-    <task id="LOCAL-00009" summary="This is an initial update...">
-      <created>1457754425387</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1457754425387</updated>
-    </task>
-    <task id="LOCAL-00010" summary="This is an initial update...">
-      <created>1457754454162</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1457754454162</updated>
-    </task>
-    <task id="LOCAL-00011" summary="This is an initial update...">
-      <created>1457754475447</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1457754475447</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1283" height="805" extended-state="0" />
+    <frame x="117" y="23" width="1283" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25785658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26188558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32959327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -280,7 +253,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial update..." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is an initial update..." />
+    <MESSAGE value="Fixing the content and header position" />
+    <MESSAGE value="Title change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -292,7 +267,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -302,8 +277,26 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.4">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -314,19 +307,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3333335">
-          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.91549295">
+          <caret line="74" column="50" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
           <folding>
-            <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6333333">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>

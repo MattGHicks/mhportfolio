@@ -21,4 +21,4 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8y-G57w0eb0
 " target="_blank"><img src="http://s23.postimg.org/y7b5mjxjf/Screen_Shot_2016_03_11_at_11_53_54_PM.png"
-alt="IMAGE ALT TEXT HERE" width=640" height="405" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="540" height="405" border="10" /></a>
